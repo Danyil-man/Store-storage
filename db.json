@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "Golden Apple",
+      "date": "2022-06-27T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 9,
+      "comment": "Fresh bananas",
+      "date": "2022-06-27T21:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
